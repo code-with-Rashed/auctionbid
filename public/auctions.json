@@ -1,0 +1,42 @@
+[
+  {
+    "id": "AUC001",
+    "title": "Vintage Rolex Submariner Watch",
+    "currentBidPrice": 8500,
+    "timeLeft": "2h 15m",
+    "bidStatus": false,
+    "image": "https://i.ibb.co/93ptqdMq/Bid1-min.png"
+  },
+  {
+    "id": "AUC002",
+    "title": "Classic 1967 Ford Mustang",
+    "currentBidPrice": 32000,
+    "timeLeft": "1d 4h",
+    "bidStatus": false,
+    "image": "https://i.ibb.co/NnNKt9yH/Bid2-min.png"
+  },
+  {
+    "id": "AUC003",
+    "title": "Rare Comic Book: Amazing Fantasy #15",
+    "currentBidPrice": 15000,
+    "timeLeft": "3d 6h",
+    "bidStatus": false,
+    "image": "https://i.ibb.co/WWhwJ15s/Bid3-min.png"
+  },
+  {
+    "id": "AUC004",
+    "title": "Antique Persian Rug",
+    "currentBidPrice": 4200,
+    "timeLeft": "5h 30m",
+    "bidStatus": false,
+    "image": "https://i.ibb.co/GvTQR2Bx/Bid4-min.png"
+  },
+  {
+    "id": "AUC005",
+    "title": "Apple iPhone 15 Pro Max (256GB)",
+    "currentBidPrice": 1100,
+    "timeLeft": "12h 10m",
+    "bidStatus": false,
+    "image": "https://i.ibb.co/QRzzH1F/Bid5-min.png"
+  }
+]
